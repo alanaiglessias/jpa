@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    margin: 100px;
+    font-size: 100px;
+    font-family: italic;
+    text-shadow: 2px 5px #8a5a00;
+}
+body{
+    background: url("../images/fundo.jpg"); 
+    font-family: monospace;
+}
+h3{
+    font-size: 30px;
+}
+#menu{
+    font-size: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
